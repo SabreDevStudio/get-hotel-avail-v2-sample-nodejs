@@ -1,0 +1,23 @@
+{
+  "name": "get-hotel-avail-sample",
+  "version": "0.1.0",
+  "description": "This app demonstrates getting hotel availability with the Get Hotel Avail API.",
+  "scripts": {
+    "start": "node ./app/index.js",
+    "start_show_rate_keys": "node ./app/index.js --rates",
+    "start_show_hotel_codes": "node ./app/index.js --codes",
+    "lint": "node ./node_modules/eslint/bin/eslint.js ./app/**.js; exit 0",
+    "test": "echo \"\n\\\\033[107m\\\\033[42m Tests Coming Soon 🤞 \n\\\\033[49m\\\\033[39m \""
+  },
+  "author": "Sabre Travel Network Developer Relations",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}

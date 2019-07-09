@@ -1,7 +1,7 @@
 # Getting Available Hotels
 ## Introducing this Code Sample
 
-Sabre offers an API called [Get Hotel Avail V2](https://developer.sabre.com/docs/rest_apis/hotel/search/get_hotel_avail_v2) to help you find properties that meet your travelers' needs. Through using the API, in one request, your application:
+Sabre offers an API called [Get Hotel Avail V2](https://beta.developer.sabre.com/docs/rest_apis/hotel/search/get_hotel_avail_v210) to help you find properties that meet your travelers' needs. Through using the API, in one request, your application:
 
   * Shops for lodging from multiple supplier sources
   * Filters using simple or advanced search criteria
@@ -19,7 +19,7 @@ What does the sample app look like when it runs? Here is a screen shot:
 
 ## Read the Article
 
-There is [an article](https://blog.developer.sabre.com/) serving as a partner to this sample app source code. You’ll find explanations and additional resources written in it to add context whenever possible. 
+There is [an article](https://blog.developer.sabre.com/blog/2019/07/09/content-services-lodging-deep-dive-part-2-getting-details/) serving as a partner to this sample app source code. You’ll find explanations and additional resources written in it to add context whenever possible. 
 
 ## Setting-up the Sample App
 
@@ -92,7 +92,7 @@ Occasionally, availability results are not found. In that case adjust the `check
 
 ## Next Steps
 
-Make use of this sample app as a testing tool. It’s a simple, flexible, jumping-off point for learning how to use Sabre APIs in general, and Get Hotel Availability in particular. Look up the [docs](https://developer.sabre.com/docs/rest_apis/hotel/search/get_hotel_avail_v2) and discover all that it can do. Find something interesting? Call it by changing the request attribute values found in the file [`hotelAvailabilityModel.js`](./app/hotelAvailabilityModel.js). Save the file and run the app to see how the updates perform.
+Make use of this sample app as a testing tool. It’s a simple, flexible, jumping-off point for learning how to use Sabre APIs in general, and Get Hotel Availability in particular. Look up the [docs](https://beta.developer.sabre.com/docs/rest_apis/hotel/search/get_hotel_avail_v210) and discover all that it can do. Find something interesting? Call it by changing the request attribute values found in the file [`hotelAvailabilityModel.js`](./app/hotelAvailabilityModel.js). Save the file and run the app to see how the updates perform.
 
 Get in touch with us. GitHub allows communication through its repo-level issue and pull request channels. Use the built-in [issues section](https://github.com/SabreDevStudio/get-hotel-avail-v2-sample-nodejs/issues).
 

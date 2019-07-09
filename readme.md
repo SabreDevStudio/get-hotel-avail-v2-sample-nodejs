@@ -19,7 +19,7 @@ What does the sample app look like when it runs? Here is a screen shot:
 
 ## Read the Article
 
-There is [an article](https://blog.developer.sabre.com/blog/2019/07/09/content-services-lodging-deep-dive-part-2-getting-details/) serving as a partner to this sample app source code. You’ll find explanations and additional resources written in it to add context whenever possible. 
+There is [an article](https://blog.developer.sabre.com/blog/2019/06/27/content-services-lodging-deep-dive-part-1-getting-availability/) serving as a partner to this sample app source code. You’ll find explanations and additional resources written in it to add context whenever possible. 
 
 ## Setting-up the Sample App
 
